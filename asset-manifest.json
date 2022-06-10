@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-blog/static/css/main.4ab54d94.css",
+    "main.js": "/react-router-blog/static/js/main.d77c6be1.js",
+    "index.html": "/react-router-blog/index.html",
+    "main.4ab54d94.css.map": "/react-router-blog/static/css/main.4ab54d94.css.map",
+    "main.d77c6be1.js.map": "/react-router-blog/static/js/main.d77c6be1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab54d94.css",
+    "static/js/main.d77c6be1.js"
+  ]
+}
