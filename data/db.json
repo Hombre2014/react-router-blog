@@ -27,14 +27,14 @@
     {
       "id": 8,
       "title": "8 is awesome",
-      "dateTime": "June 09, 2022 2:47:37 PM",
-      "body": "This is nice. And this one has been edited as well."
+      "dateTime": "June 10, 2022 12:38:09 PM",
+      "body": "This is nice. And this one has been edited as well.\nGreat!"
     },
     {
       "id": 9,
-      "title": "9th post",
-      "datetime": "June 09, 2022 2:33:31 PM",
-      "body": "This is the 9-th post so far."
+      "title": "9th post edited",
+      "dateTime": "June 10, 2022 12:37:42 PM",
+      "body": "This is the 9-th post so far and beyond."
     }
   ]
 }

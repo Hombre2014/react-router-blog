@@ -28,7 +28,7 @@ const EditPost = () => {
       setPosts(posts.map(post => post.id === id ? { ...response.data } : post));
       setEditTitle('');
       setEditBody('');
-      navigate('/');
+      navigate(`/post/${id}`);
     } catch (err) {
       console.log(`Error: ${err.message}`);
     }
